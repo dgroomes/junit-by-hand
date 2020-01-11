@@ -6,11 +6,11 @@ Makes use of the standalone JUnit Console Launcher <https://junit.org/junit5/doc
 
 ## Instructions
 
-* Compile with `./build`
+* Compile with `./build.sh`
 * Run the program with `./run.sh`
 * Run the JUnit tests with `./test.sh`
 
 ## Notes
 
 If you build with Java 14 (`./build.sh`) and then try to run the tests with Java 13 (`./test.sh`) no tests will be
-discovered.
+discovered. Ideally, an error should be thrown instead of failing silentlyl
