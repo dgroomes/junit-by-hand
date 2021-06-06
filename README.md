@@ -1,3 +1,5 @@
+ARCHIVED! Moved to <https://github.com/dgroomes/junit-playground>.
+
 # junit-by-hand
 
 Showcasing a Java program tested with JUnit *by hand* (i.e. no build tool).
